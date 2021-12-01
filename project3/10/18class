@@ -1,0 +1,12 @@
+
+
+Question 1
+people, salaries, college playing, schools
+
+Question 2
+batting
+    h/ab = batting average
+
+
+import pandas as pd
+qr = dw.query('byuidss/cse-250-baseball-database', <YOUR QUERY>)
